@@ -9,6 +9,10 @@ body {
   text-align: center;
 }
 
+#button-container{
+  text-align: center;
+}
+
 ul {
   color: rgba(172, 255, 47, 0.904);
 }
